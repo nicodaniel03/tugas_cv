@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculum Vitae</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img src="nico danielf.jpeg" alt="nico" class="profile-pic">
+            <h1>Nico Daniel Firmansyah</h1>
+            <p>Email: nicodf@gmail.com | Telepon: 083808216940 | alamat: batujaya,karawang</p>
+        </header>
+
+        <section class="about">
+            <h2>Tentang Saya</h2>
+            <p>saya adalah seorang mahasiswa yang sedang menempu pendidikan di universitas buana perjuangan karawang
+                di fakultas ilmu komputer jurusan teknik informatika.
+            </p>
+        </section>
+
+        <section class="experience">
+            <h2>Pengalaman Kerja</h2>
+            <ul>
+                <li>
+                    <h3>customer service, telkom indonesia</h3>
+                    <p>2022 - 2023</p>
+                    
+                </li>
+                <li>
+                    <h3>kasir, santa club beach</h3>
+                    <p>2023 - present</p>
+                    
+                </li>
+            </ul>
+        </section>
+
+        <section class="education">
+            <h2>Pendidikan</h2>
+            <ul>
+                <li>
+                    <h3>SMA</h3>
+                    <p>2019</p>
+                </li>
+            </ul>
+        </section>
+
+        <section class="skills">
+            <h2>Keterampilan</h2>
+            <ul>
+                <li>Python</li>
+                <li>Responsive web design</li>
+                <li>Version control</li>
+            </ul>
+        </section>
+
+        <footer>
+            <p>&copy; 2024 nico daniel firmansyah. Semua hak dilindungi.</p>
+        </footer>
+    </div>
+</body>
+</html>
